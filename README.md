@@ -1,5 +1,5 @@
 # Below is the example on how to use the lib:
-```
+```rust
 use blipe_sdk;
 
 #[tokio::main]
